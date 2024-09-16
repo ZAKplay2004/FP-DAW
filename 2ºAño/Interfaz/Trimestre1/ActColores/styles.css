@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rectangle {
+    width: 150px;
+    height: 100px;
+}
+
+#rect1 { background-color: hsl(111, 95%, 5%); }    
+#rect2 { background-color: hsl(114, 75%, 16%); }    
+#rect3 { background-color: hsl(116, 61%, 28%); }    
+#rect4 { background-color: hsl(119, 53%, 39%); }  
+#rect5 { background-color: hsl(121, 50%, 50%); } 
+#rect6 { background-color: hsl(124, 53%, 61%); }  
+#rect7 { background-color: hsl(126, 61%, 73%); }  
+#rect8 { background-color: hsl(129, 75%, 84%); }  
+#rect9 { background-color: hsl(131, 95%, 95%); } 
